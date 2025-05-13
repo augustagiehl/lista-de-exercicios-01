@@ -3,8 +3,7 @@
 LISTA DE EXERCÍCIOS 01 - JavaScript (Node.js)
 =========================================
 
-Autor: [Seu Nome]
-Data: [Data de Entrega]
+Autor: [Augusta W Giehl]
 Total de Exercícios: 15
 
 -----------------------------------------
